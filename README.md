@@ -1,2 +1,0 @@
-# ReactRouting
-Course-Directory
